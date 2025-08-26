@@ -1,5 +1,5 @@
 # sql_netflix_Movies_TVshows_project
-![netflix_logo]{"C:\Users\tiwar\Downloads\logo.png"}
+![netflix_logo]{https://www.shutterstock.com/image-photo/rajasthan-jaipur-india-15-netflix-logo-2195929279}
 ## Overview
 This project focuses on analyzing Netflix’s database of movies and TV shows using SQL. The aim is to extract useful insights from the dataset and answer important business-related questions. The project explores content distribution, ratings, release patterns, geography, and categorization.
 
